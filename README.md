@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Grafaiel/AluraPlus">
-    <img src="D:\Usuario\Desktop\Alura\8-HTML e CSS praticando HMTL-CSS\aluraPlus-pratica\AluraPlus\img\Logo.svg" alt="Logo" height="80">
+    <img src="https://www.cuponomia.com.br/desconto/alura" alt="Logo" height="80">
   </a>
 
   <h1 align="center">AluraPlus</h1>
@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://aluraplusgrb.netlify.app">
-    <img src="https://media3.giphy.com/media/DuxqBzEI50U54qfctS/giphy.gif" width="100%">
+    <img src="https://imgur.com/3Fgh704" width="100%">
   </a>
 </div>
 <br />
@@ -38,8 +38,8 @@ Desenvolvido durante o curso HTML e CSS: praticando HTML/CSS na Alura.
 
 ## Contact
 
-Gabriel - [@ezrealblindado](https://twitter.com/ezrealblindado) - gabrielrocha1997@gmail.com
+[Gabriel](https://grb.netlify.app) - gabrielbercelline@gmail.com
 
 
 
-[product-screenshot]: https://media3.giphy.com/media/DuxqBzEI50U54qfctS/giphy.gif
+[product-screenshot]: https://imgur.com/3Fgh704
