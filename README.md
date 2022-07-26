@@ -33,9 +33,6 @@ Desenvolvido durante o curso HTML e CSS: praticando HTML/CSS na Alura.
 - HTML
 - CSS
 
-## Usage
-
-
 ## Contact
 
 [Gabriel](https://grb.netlify.app) - gabrielbercelline@gmail.com
