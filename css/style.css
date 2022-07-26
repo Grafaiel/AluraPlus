@@ -1,0 +1,27 @@
+@import url("./styles/combo.css");
+@import url("./styles/exemplo.css");
+@import url("./styles/dispositivo.css");
+@import url("./styles/rodape.css");
+
+
+:root {
+  --azulEscuro: #02050c;
+  --vermelho: #EC2F46;
+  --azul: #167BF7;
+  --branco: #FFFFFF;
+  --preto: #000;
+  --fonte: 'Inter', sans-serif;
+}
+
+body{
+  font-family: var(--fonte);
+  background-color: var(--azulEscuro);
+  color:var(--branco);
+}
+
+.titulo {
+  color: var(--branco);
+  font-size: 3em;
+  font-weight: 700;
+  margin: .2em 0;
+}

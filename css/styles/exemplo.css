@@ -1,0 +1,36 @@
+.exemplo__aviso {
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.5em;
+}
+
+.btn__exemplo {
+  margin: 1em 0;
+  background-color: var(--azul);
+  border-radius: .5em;
+  padding: 1em;
+  height: 3.5em;
+  width: 10.17em;
+  cursor: pointer;
+  border: transparent;
+}
+
+.btn__exemplo a {
+  text-decoration: none;
+  color: var(--branco);
+}
+
+.exemplos {
+  margin: 5em 7em;
+}
+
+.exemplo__banner {
+  margin: 5em 0;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.exemplo__container {
+  margin: auto 3em;
+}

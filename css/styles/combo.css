@@ -1,0 +1,49 @@
+header {
+  background: no-repeat center/100% url("../../img/Background.png") ;
+}
+
+.combo--titulo {
+  font-size: 1.75em;
+  line-height: 1.2em;
+  font-weight: 600;
+  text-align: center;
+  margin: 3em 0 0 0;
+  padding: 0;
+}
+
+.combo {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: row;
+  align-content: flex-start;
+  align-items: center;
+  gap: 1em 0;
+  width: 41.25em;
+  height: 75vh;
+}
+
+.btn__combo {
+  background-color: var(--azul);
+  border-radius: .5em;
+  padding: 1em;
+  height: 3.5em;
+  width: 32em;
+  cursor: pointer;
+  border: transparent;
+}
+
+.btn__combo--transparente {
+  background-color: transparent;
+  border: 1px solid var(--branco);
+}
+
+.btn__combo a {
+  font-size: 1em;
+  text-decoration: none;
+  color: var(--branco);
+}
+
+.combo__aviso {
+ font-size: .75em; 
+}

@@ -1,0 +1,22 @@
+.dispositivo__titulo {
+  font-size: 2em;
+  font-weight: 700;
+}
+
+.dispositivos {
+  margin: 15em 7em 10em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.dispositivos__container {
+  display: flex;
+  align-items: center;
+}
+
+.dispositivo__item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

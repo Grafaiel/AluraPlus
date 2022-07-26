@@ -1,0 +1,28 @@
+.rodape {
+  margin: 2em 6em;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-content: space-around;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 2em 0;
+}
+
+.rodape__lista {
+  display: flex;
+}
+
+.rodape__link a {
+  font-size: 1em;
+  font-weight: 400;
+  text-decoration: none;
+  color: var(--branco);
+  margin-right: 1em;
+}
+
+.rodape__aviso {
+  font-size: .88em;
+  font-weight: 400;
+  text-align: center;
+}
