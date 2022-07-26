@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://aluraplusgrb.netlify.app">
-    <img src="https://i.imgur.com/3Fgh704.gifv" width="100%">
+    <img src="https://i.imgur.com/3Fgh704.gif" width="100%">
   </a>
 </div>
 <br />
@@ -42,4 +42,4 @@ Desenvolvido durante o curso HTML e CSS: praticando HTML/CSS na Alura.
 
 
 
-[product-screenshot]: https://i.imgur.com/3Fgh704.gifv
+[product-screenshot]: https://i.imgur.com/3Fgh704.gif
