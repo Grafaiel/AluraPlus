@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://aluraplusgrb.netlify.app">
-    <img src="https://i.imgur.com/3Fgh704.gif" width="100%">
+    <img src="./aluraplus.gif" width="100%">
   </a>
 </div>
 <br />
