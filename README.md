@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Grafaiel/AluraPlus">
-    <img src="https://www.cuponomia.com.br/desconto/alura" alt="Logo" height="80">
+    <img src="https://www.alura.com.br/assets/img/home/alura-logo.1647533643.svg" alt="Logo" height="80">
   </a>
 
   <h1 align="center">AluraPlus</h1>
